@@ -48,3 +48,7 @@ Include the links to your repository, slides and trello. Feel free to include an
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
+
+## Sources
+https://wellcome.ac.uk/reports/wellcome-global-monitor/2018
+https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/
