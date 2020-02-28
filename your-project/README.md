@@ -28,7 +28,10 @@ In this analysis, I will try and get a more global picture on how are people sup
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+
+The Wellcome Trust, https://wellcome.ac.uk/what-we-do/our-work/wellcome-global-monitor
+Wolrd Health Organization, http://apps.who.int/gho/data/node.home
+Wikipedia, https://en.m.wikipedia.org/wiki/Vaccination_policy
 
 [Dataset]() 
 
