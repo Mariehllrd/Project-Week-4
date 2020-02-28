@@ -10,7 +10,6 @@ Data Analytics, Lisbon, 2020
 - [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
@@ -29,29 +28,27 @@ In this analysis, I will try and get a more global picture on how are people sup
 
 ## Dataset
 
-[The Wellcome Trust](https://wellcome.ac.uk/what-we-do/our-work/wellcome-global-monitor) 
+[The Wellcome Trust](https://wellcome.ac.uk/what-we-do/our-work/wellcome-global-monitor)
+
 [Wolrd Health Organization](http://apps.who.int/gho/data/node.home) 
+
 [Wikipedia](https://en.m.wikipedia.org/wiki/Vaccination_policy) 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+- Research on anti-vaxxers movement
+- Find datasets
+- Scrap vaccination policy table from wikipedia
+- Clean data
+- Exploratory analysis on Tableau
+- Inferential analysis with T-Test
+- Results analysis
 
 <a name="organization"></a>
-
-## Organization
-How did you organize yourself? Did you use any tools?
-
-<a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
-
-## Sources
-https://wellcome.ac.uk/reports/wellcome-global-monitor/2018
-https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/
+[Repository](https://github.com/Mariehllrd/Project-Week-4/edit/master/your-project)  
+[Slides](https://www.canva.com/design/DAD1BEZWuvE/KkzlaNWXqesw-lkOjZrypg/edit)    
