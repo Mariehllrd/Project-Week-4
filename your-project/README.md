@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Vaccination around the world
 Marie Hallard
 
 Data Analytics, Lisbon, 2020
@@ -16,7 +16,8 @@ Data Analytics, Lisbon, 2020
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+Last september, a Global Summit was hosted by the European Council and the main subject was the growing mistrust of vaccination, fear of side effects, and, “herd immunity.” 
+In this analysis, I will try and get a more global picture on how are people supporting vaccination and see if vaccines skepticism affect immunization coverage.
 
 <a name="hypotheses-/-questions"></a>
 
