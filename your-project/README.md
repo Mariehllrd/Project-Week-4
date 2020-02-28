@@ -22,7 +22,8 @@ In this analysis, I will try and get a more global picture on how are people sup
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+- How are people supporting vaccination across the world?
+- Does vaccine skepticism affect immunization coverage?
 
 <a name="dataset"></a>
 
